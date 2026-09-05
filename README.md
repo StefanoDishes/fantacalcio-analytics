@@ -31,7 +31,7 @@ E via, si apre la finestra.
 > **Nota bella:** nel repo trovi già `Fanta_Stats.parquet`, cioè il database bello e pronto.
 > Quindi al primo avvio **non devi scaricare niente**, parte subito.
 > Se invece cancelli quel file, l'app si mette a scaricare tutto da FBref da sola —
-> ma armati di pazienza, ci mette parecchi minuti.
+> Bisogna avere Google Chrome installato.
 
 ---
 
@@ -141,13 +141,5 @@ e non pensarci più.
 Allargala pure, si adatta. Il minimo è 820×460, ma dallo schermo intero si vede molto meglio.
 
 ---
-
-## 📝 Due parole oneste
-
-Nasce come progetto per l'esame di Programmazione 2, ma poi l'ho usato davvero all'asta.
-Non fa previsioni magiche e non ti dice quanto pagare un giocatore: ti mette solo i numeri
-davanti in fretta, che durante un'asta è esattamente quello che serve.
-
-I dati sono di FBref/Opta, l'app li legge e basta. Usala per divertirti, non per scommetterci sopra.
 
 Buona asta 🏆
