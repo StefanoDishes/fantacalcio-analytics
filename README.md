@@ -93,7 +93,6 @@ vale molto più di uno da 12 gol in 35. Guardala sempre. 😉
 
 ```
 fantacalcio_tkinter.py   # l'app vera e propria, quella con l'interfaccia
-fantacalcio.py           # la versione da terminale, quella da cui è nato tutto
 Fanta_Stats.parquet      # il database pronto (Big 5, 2017-18 → 2025-26)
 requirements.txt         # le librerie che servono
 ```
