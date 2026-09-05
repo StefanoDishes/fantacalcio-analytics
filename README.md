@@ -31,7 +31,7 @@ E via, si apre la finestra.
 > **Nota bella:** nel repo trovi già `Fanta_Stats.parquet`, cioè il database bello e pronto.
 > Quindi al primo avvio **non devi scaricare niente**, parte subito.
 > Se invece cancelli quel file, l'app si mette a scaricare tutto da FBref da sola —
-> Bisogna avere Google Chrome installato.
+> **bisogna avere Google Chrome installato**.
 
 ---
 
