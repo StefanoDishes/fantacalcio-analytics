@@ -1,0 +1,23 @@
+# Ambiente virtuale (ognuno si ricrea il suo)
+.venv/
+venv/
+env/
+
+# Roba di sistema / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# File temporanei di soccerdata / scraping
+downloaded_files/
+*.lock
+
+# Esercizi del corso, non fanno parte dell'app
+mathplot.py
+spark-esercizi.py
+tkinter-hello-world.py
